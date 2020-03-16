@@ -1,0 +1,25 @@
+table{
+    border: 2px solid black;
+}
+tr{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+span {
+    font-style: italic;
+}
+h5{
+    text-transform: uppercase;
+}
+h2{
+    text-decoration: underline;
+}
+header {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
