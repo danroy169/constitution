@@ -1,14 +1,18 @@
 html {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(168, 184, 236)
+}
+body {
+    background-color: black;
 }
 table{
-    border: 2px solid black;
+    border: 2px solid white;
 }
 tr{
-    border: 1px solid black;
+    border: 1px solid white;
 }
 td{
-    border: 1px solid black;
+    border: 1px solid white;
 }
 span {
     font-style: italic;
@@ -18,11 +22,16 @@ h5{
 }
 h2{
     text-decoration: underline;
-}
-header {
     text-align: center;
 }
 
-h2 {
-    text-align: center;
+a{
+    color: green;
+}
+
+
+
+img {
+    width: 480px;
+    height: 419px;
 }
