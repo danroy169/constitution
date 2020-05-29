@@ -4,6 +4,8 @@ html {
 }
 body {
     background-color: black;
+    margin: 10%;
+    text-align: justify;
 }
 table{
     border: 2px solid white;
@@ -16,6 +18,10 @@ td{
 }
 span {
     font-style: italic;
+}
+.tableTitle {
+    color: yellowgreen;
+    font-weight: bold;
 }
 h5{
     text-transform: uppercase;
@@ -34,4 +40,9 @@ a{
 img {
     width: 480px;
     height: 419px;
+}
+
+.contents{
+    margin: 1%;
+
 }
